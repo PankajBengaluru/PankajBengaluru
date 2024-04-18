@@ -1,4 +1,4 @@
-<h1 align="center">Namastey, My name is Pankaj Kumar</h1>
+<h1 align="center">Hello, My name is Pankaj Kumar</h1>
 <h3 align="center">A am a passionate full Stack developer from Bengaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajbengaluru&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbengaluru" /> </p>
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PankajBengaluru](https://github.com/PankajBengaluru)
 
-- 📝 I regularly learns articles on [Trending Technology](Trending Technology)
+- 📝 I regularly learns articles on [Trending Technology]
 
 - 💬 Ask me about **Full Stack Development**
 
