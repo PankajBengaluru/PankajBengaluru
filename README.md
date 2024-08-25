@@ -19,13 +19,13 @@
 
 - 📝 I regularly learns articles on [Trending Technology]
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Java Full Stack Development**
 
 - 📫 How to reach me **pks953001@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pankajbengaluru/](https://www.linkedin.com/in/pankajbengaluru/)
 
-- ⚡ Fun fact **Not so Funny but Always happy.**
+- ⚡ Fun fact **Always happy and Humble**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
