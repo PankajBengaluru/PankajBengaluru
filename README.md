@@ -32,7 +32,7 @@
 
 <h1>To Sponser❤️ and Support👍 me!</h1>
 
-<iframe src="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0 title="To Support❤️ me!"></iframe>
+<a href="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0 title="To Support❤️ me!"></a>
 
 
 </body>
