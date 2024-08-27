@@ -25,19 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pankajbengaluru/](https://www.linkedin.com/in/pankajbengaluru/)
 
-- ⚡ Fun fact **Always happy and Humble**
-
-<html>
-<body>
-
-<h1>To Sponser❤️ and Support👍 me!</h1>
-
-<a href="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0 title="To Support❤️ me!"></a>
-
-
-</body>
-</html>
--   
+- ⚡ Fun fact **Always try to be happy**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
