@@ -26,7 +26,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/pankajbengaluru/](https://www.linkedin.com/in/pankajbengaluru/)
 
 - ⚡ Fun fact **Always happy and Humble**
-![logo] <iframe src="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0;"></iframe>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -34,6 +33,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <iframe src="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0;"></iframe>
+
 <a href="https://linkedin.com/in/pankajbengaluru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajbengaluru" height="30" width="40" /></a>
 <a href="https://instagram.com/pankajbengaluru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajbengaluru" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ThePankajPoojaSharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jobdates" height="30" width="40" /></a>
