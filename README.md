@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajbengaluru" alt="pankajbengaluru" /></a> </p>
 
-- 🔭 I’m currently working on **"School CRM" which is Fulll Stack Project based on MERN**
+- 🔭 I’m currently working on **"Shoppie" which is Fulll Stack Java Developement Project using Spring Boot**
 
-- 🌱 I’m currently learning **Frameworks like Django, AI/ML, Cyber Security & Cloud Computing**
+- 🌱 I’m currently learning **Frameworks like Spring Boot, React.JS**
 
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/pankajbengaluru)
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Java Full Stack Development**
 
-- 📫 How to reach me **pks953001@gmail.com**
+- 📫 How to reach me **pksnmit@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pankajbengaluru/](https://www.linkedin.com/in/pankajbengaluru/)
 
