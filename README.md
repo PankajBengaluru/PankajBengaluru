@@ -27,14 +27,27 @@
 
 - ⚡ Fun fact **Always happy and Humble**
 
+- <html>
+<body>
+
+<h2>Iframe - Target for a Link</h2>
+
+<iframe src="demo_iframe.htm" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
+<a href="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0" src="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0;">Sponser</a>
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+
+<p>When the target attribute of a link matches the name of an iframe, the link will open in the iframe.</p>
+
+</body>
+</html>
+-   
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0" src="https://github.com/sponsors/PankajBengaluru/card" title="Sponsor PankajBengaluru" height="225" width="600" style="border: 0;">Sponser</a>
-
 <a href="https://linkedin.com/in/pankajbengaluru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajbengaluru" height="30" width="40" /></a>
 <a href="https://instagram.com/pankajbengaluru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajbengaluru" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ThePankajPoojaSharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jobdates" height="30" width="40" /></a>
