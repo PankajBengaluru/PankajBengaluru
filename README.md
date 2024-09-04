@@ -1,5 +1,5 @@
 
-![logo](https://github.com/PankajBengaluru/PankajBengaluru/blob/main/Pankaj%20Linkedin.png)
+![logo](Linkedin Background pic Black White Minimalist The Best Success Quote LinkedIn Banner.png)
 <h1 align="center">Hi👋, My name is Pankaj Kumar</h1>
 <h3 align="center"> I am a passionate full Stack Java developer from Bengaluru (Bangalore), INDIA </h3>
 
