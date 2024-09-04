@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/PankajBengaluru/PankajBengaluru/blob/51547e44bba0f3c2c8459ef4006dd3ffc8e99f5a/B%20Professional%20Technology%20Github.png)
-<h1 align="center">Hi👋, My name is Pankaj Kumar</h1>
+<h1 align="center">Hi👋, My name is <strong>Pankaj Kumar</strong></h1>
 <h3 align="center"> I am a passionate full Stack Java developer from Bengaluru (Bangalore), INDIA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajbengaluru&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbengaluru" /> </p>
